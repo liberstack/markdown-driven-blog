@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "exemplo-post",
+    "title": "Exemplo de Post",
+    "date": "2026-06-24",
+    "excerpt": "Este é um exemplo de post em Markdown.",
+    "tag": ["javascript"],
+    "file": "exemplo-post.md"
+  }
+]
